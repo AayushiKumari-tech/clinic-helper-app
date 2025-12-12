@@ -1,18 +1,9 @@
-# Welcome to your Lovable project
+# Welcome to your Clinic Helper app project
 
-## Project info
-
-**URL**: https://lovable.dev/projects/d7d42ab9-5006-404b-8e89-4a0ffa989bea
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/d7d42ab9-5006-404b-8e89-4a0ffa989bea) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -27,7 +18,7 @@ Follow these steps:
 git clone <YOUR_GIT_URL>
 
 # Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+cd <clinic-helper-app-001-main>
 
 # Step 3: Install the necessary dependencies.
 npm i
@@ -62,7 +53,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/d7d42ab9-5006-404b-8e89-4a0ffa989bea) and click on Share -> Publish.
+Simply open [Vercel ](https://clinic-helper-app.vercel.app/) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
@@ -70,4 +61,4 @@ Yes, you can!
 
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+
